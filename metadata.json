@@ -1,0 +1,6 @@
+{
+  "name": "Dollar Dodger",
+  "description": "A fast-paced arcade game where you control a hero dodging obstacles while collecting dollar bills and cash stacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
